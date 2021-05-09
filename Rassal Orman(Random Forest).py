@@ -6,7 +6,7 @@ Created on Fri Apr 30 00:34:35 2021
 """
 
 #Rassal agaçlar: 
-    #verileri birden fazla parça bölünüyor, her parçadan bir ağaç meydana geliyor ve sonra oratk bir karar alınıyor. 
+    #veriler birden fazla parça bölünüyor, her parçadan bir ağaç meydana geliyor ve sonra oratk bir karar alınıyor. 
 
     
 import pandas as pd
